@@ -20,7 +20,7 @@ public class Main {
         order2.addItem(item4);
 
         order1.facture();
-        System.out.println("+++++++++++++++++++++++");
+        System.out.println("+++++++++++++++++++++++++++");
         order2.facture();
     }
 }
